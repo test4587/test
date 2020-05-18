@@ -12,6 +12,8 @@ public class Test {
 
 		System.out.println("AAAAAAAAAAAA");
 
+		System.out.println("BBBBBBBBBBBB");
+		
 		System.out.println("zZZZZZZZZZZZZ"); 
 
 	}
